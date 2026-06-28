@@ -1,5 +1,5 @@
 {
-  "name": "claude-plugins",
+  "name": "bagrat-plugins",
   "owner": { "name": "Bagrat Aznauryan" },
   "metadata": {
     "description": "Bagrat's Claude Code plugins."
