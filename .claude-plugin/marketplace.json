@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "shroom",
-      "source": { "source": "git", "url": "https://github.com/bagrat/shroom.git" },
+      "source": { "source": "url", "url": "https://github.com/bagrat/shroom.git" },
       "description": "Agent-first, self-hosted Loom alternative. Record your screen to your own object storage and git; get a permanent unlisted link with auto title, chapters, and a searchable transcript.",
       "category": "productivity",
       "tags": ["screen-recording", "video", "loom", "self-hosted", "cloudflare-r2"],
