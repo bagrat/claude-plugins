@@ -1,0 +1,17 @@
+{
+  "name": "claude-plugins",
+  "owner": { "name": "Bagrat Aznauryan" },
+  "metadata": {
+    "description": "Bagrat's Claude Code plugins."
+  },
+  "plugins": [
+    {
+      "name": "shroom",
+      "source": { "source": "github", "repo": "bagrat/shroom" },
+      "description": "Agent-first, self-hosted Loom alternative. Record your screen to your own object storage and git; get a permanent unlisted link with auto title, chapters, and a searchable transcript.",
+      "category": "productivity",
+      "tags": ["screen-recording", "video", "loom", "self-hosted", "cloudflare-r2"],
+      "repository": "https://github.com/bagrat/shroom"
+    }
+  ]
+}
